@@ -1,0 +1,20 @@
+
+
+ 
+
+#boxed{
+    border: 1px gray;
+    
+    
+}
+
+#box-table{
+    border-style: solid;
+    border-width: 2px;
+    border-color: black; 
+}
+
+img{
+    display: inline-block;
+}
+
